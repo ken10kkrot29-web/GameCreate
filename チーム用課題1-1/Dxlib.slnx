@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Dxlib_Basic_Seting.vcxproj" Id="7d1113f2-3fcf-4d67-b077-d9e23633f7f3" />
+</Solution>
